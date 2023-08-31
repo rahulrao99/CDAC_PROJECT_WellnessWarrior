@@ -1,1 +1,2 @@
-wellness warrior
+#WellnessWarrior
+A meal planning specialist can suggest new ingredients, different ways to prepare favorite foods, or new food combinations that can provide health benefits.Personalized meal planning helps reduce body fat and build muscle by regulating your intake of hydration, micronutrients, and macronutrients. A meal planning specialist guides you in tracking these components to ensure that you’re eating and drinking the right combination of foods and beverages to meet your goals.
